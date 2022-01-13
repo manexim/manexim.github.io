@@ -4,54 +4,12 @@
    width="128.00006"
    height="128.00006"
    id="svg2453"
-   sodipodi:docname="com.manexim.codecard.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1533"
-     inkscape:window-height="756"
-     id="namedview123"
-     showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="54"
-     inkscape:cy="85.25"
-     inkscape:window-x="86"
-     inkscape:window-y="325"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2453"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid1131"
-       empspacing="4" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid1133"
-       empspacing="2"
-       dotted="true"
-       spacingy="0.5"
-       spacingx="0.5"
-       color="#403fff"
-       opacity="0.2745098"
-       empcolor="#3f3fff"
-       empopacity="0.2745098" />
-  </sodipodi:namedview>
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -60,7 +18,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -213,7 +170,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1153"
        id="linearGradient1147"
        x1="64"
@@ -282,7 +238,6 @@
   <g
      id="g1145">
     <path
-       inkscape:connector-curvature="0"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:url(#radialGradient5448);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="path3041"
        d="M 125.5,117 A 61.500002,6.0000004 0 0 1 2.4999976,117 61.500002,6.0000004 0 1 1 125.5,117 Z" />
